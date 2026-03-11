@@ -28,7 +28,8 @@ Projects developed during the 42 Madrid curriculum:
 - libft
 - ft_printf
 - get_next_line
-- minitalk
+- push_swap
+- pipex
 - so_long
 
 These projects focus on memory management, algorithms and low-level programming.
